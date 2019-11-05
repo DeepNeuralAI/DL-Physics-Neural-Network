@@ -1,6 +1,16 @@
-# Infer Solutions to Partial Differential Equations Using Deep Learning
+## Data Inferenceto PDEs Using Deep Learning
 
 This set of jupyter notebooks is an emulation of "physics-informed" neural networks, applied to the diffusivity equation.
+
+![eqn](https://wikimedia.org/api/rest_v1/media/math/render/svg/ef7f035a8de948328b8a983c06c099ff52d9ef07)
+
+The diffusivity equation is a fundamental governing equation in reservoir engineering and petrophysics. The equation describes the pressure profile as a function of time t and radius position r. 
+
+The following assumptions were made in approximating the equation with deep neural networks:
+1. Homogeneous and isotropic
+2. Uniform thickness
+3. Single Phase Flow
+4. Rock and Fluid Properties were constant with respect to pressure
 
 
 ## Reference & Full Credit
