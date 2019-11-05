@@ -1,4 +1,4 @@
-## Data Inferenceto PDEs Using Deep Learning
+## Data Inference to PDEs Using Deep Learning
 
 This set of jupyter notebooks is an emulation of "physics-informed" neural networks, applied to the diffusivity equation.
 
